@@ -1,0 +1,8 @@
+# Ignoraa kaikki juuressa
+/*
+
+# Salli vain src-kansio ja sen sisältö
+!/src/
+
+# Salli .gitignore itse
+!.gitignore
